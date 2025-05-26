@@ -1,0 +1,30 @@
+[
+	{
+		"speaker": "Alice",
+		"message": "I think we need to prioritize environmental protection because studies show that climate change is accelerating at an unprecedented rate."
+	},
+	{
+		"speaker": "Bob",
+		"message": "But you're being dramatic! Everyone knows that economic growth has to come first, or else we'll all be unemployed and starving."
+	},
+	{
+		"speaker": "Charlie",
+		"message": "Alice makes a valid point. The research from multiple institutions indicates that we need immediate action on climate change."
+	},
+	{
+		"speaker": "Bob",
+		"message": "So you're saying the economy doesn't matter at all? It's either environmental protection or economic collapse, right?"
+	},
+	{
+		"speaker": "Alice",
+		"message": "I never said that, Bob. You're misrepresenting my argument. We can have both economic growth and environmental protection."
+	},
+	{
+		"speaker": "Dave",
+		"message": "Think of the children! What kind of world are we leaving for them if we don't act now on climate change?"
+	},
+	{
+		"speaker": "Bob",
+		"message": "That never happened in the past. You're all overreacting to natural climate variations."
+	}
+]
